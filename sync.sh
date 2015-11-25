@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 FROM='/Users/cofyc/Music/iTunes/iTunes Music/'
 
